@@ -1,0 +1,57 @@
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.exe
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\bin\Debug\TCPClient01.pdb
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.Cache
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.exe
+c:\users\naeem\documents\visual studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Naeem\Documents\Visual Studio 2010\Projects\TCPClient01\TCPClient01\obj\x86\Debug\TCPClient01.csprojResolveAssemblyReference.cache
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\ceyz\Desktop\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.exe
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.pdb
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csprojAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.exe
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.exe
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.pdb
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csprojAssemblyReference.cache
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.cache
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.exe
+D:\my study\Tcp Udp final\tcp final\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.pdb
+E:\study\практика\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.exe
+E:\study\практика\TCPClient01-master\TCPClient01\bin\Debug\TCPClient01.pdb
+E:\study\практика\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csprojAssemblyReference.cache
+E:\study\практика\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Form1.resources
+E:\study\практика\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.Properties.Resources.resources
+E:\study\практика\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csproj.GenerateResource.cache
+E:\study\практика\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.csproj.CoreCompileInputs.cache
+E:\study\практика\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.exe
+E:\study\практика\TCPClient01-master\TCPClient01\obj\x86\Debug\TCPClient01.pdb

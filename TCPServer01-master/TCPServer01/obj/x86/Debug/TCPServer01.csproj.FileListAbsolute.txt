@@ -1,0 +1,65 @@
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\Naeem\documents\visual studio 2010\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csprojResolveAssemblyReference.cache
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Naeem Akram\Documents\Visual Studio 2015\Projects\TCPServer01\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.Cache
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\rabota\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\Vladislav\Desktop\Tcp Udp final\tcp final\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.pdb
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.exe
+C:\Users\ceyz\Desktop\работа 2.0\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.pdb
+E:\study\практика\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.exe
+E:\study\практика\TCPServer01-master\TCPServer01\bin\Debug\TCPServer01.pdb
+E:\study\практика\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csprojAssemblyReference.cache
+E:\study\практика\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Form1.resources
+E:\study\практика\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.Properties.Resources.resources
+E:\study\практика\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.GenerateResource.cache
+E:\study\практика\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.csproj.CoreCompileInputs.cache
+E:\study\практика\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.exe
+E:\study\практика\TCPServer01-master\TCPServer01\obj\x86\Debug\TCPServer01.pdb
